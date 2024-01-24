@@ -9,5 +9,8 @@
   "license": "UNLICENSED",
   "devDependencies": {
     "@babel/plugin-proposal-object-rest-spread": "^7.20.7"
+  },
+  "dependencies": {
+    "idb": "^8.0.0"
   }
 }
